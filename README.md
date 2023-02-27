@@ -1,6 +1,6 @@
 # travel_app
 
-A new Flutter project.
+A new Flutter project with Bloc/Cubit Management.
 
 ## Getting Started
 
